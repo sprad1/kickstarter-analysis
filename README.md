@@ -33,5 +33,6 @@ From "Outcome based on Goal" pivot chart, we can conclude that none of the cance
 
 - What are some limitations of this dataset?
 
+There were still some plays that were live meaning we didn't have data for them letting us know if they were successful, failure or canceled. 
 
 - What are some other possible tables and/or graphs that we could create?
