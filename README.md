@@ -18,12 +18,15 @@ Using the Kickstarter data set, a new sheet titled, "Outcomes Based on Goals" wa
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86751774/125125279-fabc8900-e0be-11eb-910b-c239cc54faeb.png)
 
   #### Challenges and Difficulties Encountered
-        One of the biggest challenges I encountered was entering the correct function for each cell due to the repetitiveness and different ranges used in "Outcomes Based on Goals." Another was when creating pivot table and how to set up the PivotChart fields to make the most sense out of the data.
+  
+One of the biggest challenges I encountered was entering the correct function for each cell due to the repetitiveness and different ranges used in "Outcomes Based on Goals." Another was when creating pivot table and how to set up the PivotChart fields to make the most sense out of the data.
+
         Outcomes_vs_Goals.png![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86751774/125108146-406d5780-e0a7-11eb-945b-e4ddfcc13d74.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. 
+When analyzing the "Theater Outcomes Based on Launch Date" pivot chart, we can concluded that when plays are launch in the month of May, they are most successful and that there weren't any plays that were canceled in the month of October. For number of plays that were successful, there were still plays that failed or were canceled respectively. For the month of December, the number of plays that were successful and failed are very close. 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
