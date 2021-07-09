@@ -1,4 +1,4 @@
-# Kickstarting with Excel - Written Analysis of the Results
+**Kickstarting with Excel - Written Analysis of the Results**
 
 ## Overview of Project
 
@@ -16,7 +16,7 @@ Using the Kickstarter data set, a new sheet titled, "Outcomes Based on Goals" wa
 
     ### Challenges and Difficulties Encountered
         One of the biggest challenges I encountered was entering the correct function for each cell due to the repetitiveness and different ranges used in "Outcomes Based on Goals." Another was when creating pivot table and how to set up the PivotChart fields to make the most sense out of the data.
-        
+        Outcomes_vs_Goals.png![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86751774/125108146-406d5780-e0a7-11eb-945b-e4ddfcc13d74.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
